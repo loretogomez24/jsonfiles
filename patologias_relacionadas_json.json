@@ -1,0 +1,1653 @@
+{
+"Hoja1":[
+ {
+  "num_id": 2023172,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023828,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023141,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023397,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023905,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023241,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023151,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023183,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023711,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023391,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023116,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023361,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023265,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023584,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023046,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023486,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023923,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023100,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023319,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023465,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023989,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023035,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023274,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023578,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023628,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023807,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023752,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023750,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023950,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023988,
+  "HTA": "HTA",
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023253,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023567,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023449,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023163,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023429,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023288,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023342,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023781,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023637,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023940,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023433,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023772,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023925,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023540,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023001,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023000,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023066,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023314,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023047,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023499,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023730,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023583,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023625,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023012,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023051,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023621,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023381,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023729,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023029,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023750,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023221,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023056,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023264,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023044,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023470,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023499,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023884,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023686,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023456,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023401,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023024,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023322,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023486,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023025,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023236,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023781,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023184,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023071,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023218,
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023601,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023054,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023981,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023498,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023463,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023357,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023483,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023321,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023060,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023962,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023094,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023208,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023753,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023062,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023538,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023896,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023460,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023358,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023111,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023703,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023569,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023055,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023180,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023183,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023803,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023735,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023972,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023906,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023814,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023361,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023483,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023742,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023760,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023718,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023510,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023573,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023720,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023937,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023832,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023047,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023461,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023094,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023754,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023861,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023835,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023249,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023491,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023194,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023964,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023985,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023634,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023234,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023228,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023382,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023635,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023363,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023032,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023560,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023497,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023951,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023233,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023889,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023849,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023208,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023743,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023535,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023952,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023586,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023670,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023837,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023183,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023417,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023595,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023589,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023702,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023565,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023213,
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023018,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023160,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023015,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023793,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023634,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023335,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023886,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023736,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023964,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023556,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023939,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023784,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023461,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023247,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023392,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023620,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023505,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023132,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023136,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023117,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023763,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023191,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023818,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023654,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023407,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023889,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023489,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023428,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023544,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023336,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023536,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023444,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023605,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023768,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023973,
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023362,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023141,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023029,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023458,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023956,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023007,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023660,
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023626,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023533,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023542,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023393,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023982,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023125,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023524,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023344,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023363,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023610,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023412,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023356,
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023437,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023795,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023494,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023085,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023937,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023143,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023573,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023300,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023653,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023263,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023490,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023154,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023311,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023052,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023214,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023660,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023389,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023176,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023425,
+  "EPOC": "EPOC"
+ },
+ {
+  "num_id": 2023305,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023966,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023592,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023081,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023031,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023446,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023917,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023786,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023224,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023663,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023563,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023109,
+  "HTA": "HTA",
+  "ERC": "ERC"
+ },
+ {
+  "num_id": 2023219,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023605,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023682,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023530,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023034,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023660,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023133,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023286,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023130,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023971,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023285,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023775,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023883,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023156,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023948,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023439,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023601,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023109,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023423,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023009,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023826,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023059,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023851,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023038,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023019,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023907,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023200,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023679,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023938,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023739,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023812,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023515,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023102,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023645,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023865,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023552,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023570,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023640,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023314,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023966,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023428,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023918,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023591,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023339,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023834,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023296,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023480,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023522,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023122,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023199,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023305,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023419,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023485,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023173,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023898,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023435,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023002,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023054,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023769,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023512,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023441,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023867,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023169,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023973,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023260,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023126,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023405,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023672,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023238,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023174,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023608,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023928,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023669,
+  "SOLO DM": "DM"
+ },
+ {
+  "num_id": 2023967,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023871,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023543,
+  "HTA": "HTA"
+ },
+ {
+  "num_id": 2023435,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023198,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023336,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023766,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023850,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023137,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023786,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023497,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023525,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023222,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023563,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023328,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023264,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023933,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023555,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023295,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023174,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023771,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023332,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023032,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023573,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023353,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023242,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023463,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023083,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023535,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023556,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023741,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023686,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023809,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023334,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023217,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023718,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023825,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023151,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023203,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023918,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023439,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023745,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023054,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023343,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023819,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023862,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023871,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023829,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023481,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023171,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ },
+ {
+  "num_id": 2023338,
+  "HTA": "HTA",
+  "DISLIPIDEMIA": "DISLIPIDEMIA"
+ }
+]
+}
